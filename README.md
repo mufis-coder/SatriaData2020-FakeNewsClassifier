@@ -1,5 +1,4 @@
-#Fake News Classifier 
-#(Satria Data 2020 Big Data Challenge )
+# Fake News Classifier (Satria Data 2020 Big Data Challenge )
 
 This Repository contains:
 1. Datasets
